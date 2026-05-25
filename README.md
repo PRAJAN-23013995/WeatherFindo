@@ -133,8 +133,19 @@ Frontend runs on:
 ---
 
 # Screenshots
+# Interface :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03db72ec-6145-48c0-b151-df7adfacd2f5" />
 
-(Add screenshots here later)
+# Weather Prediction:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/643e1e05-3d7b-48d1-a836-fe204e256c24" />
+
+# Future Forecasting :
+<img width="1231" height="334" alt="image" src="https://github.com/user-attachments/assets/db1d5d93-dcaa-4485-a842-3befddd3c4af" />
+
+# Current location Fetching:
+<img width="144" height="96" alt="image" src="https://github.com/user-attachments/assets/2c2f206b-7028-4d58-8e13-aac5a9a50b23" />
+
+<img width="1299" height="969" alt="image" src="https://github.com/user-attachments/assets/1caf85e5-4f57-4ddc-80b9-e2d22b4e55fb" />
 
 ---
 
